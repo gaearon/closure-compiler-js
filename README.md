@@ -1,3 +1,11 @@
+==================
+
+**This is a (hopefully temporary) fork of `closure-compiler-js` that points to my fork of `closure-compiler`.**
+
+**It only includes this change: https://github.com/google/closure-compiler/pull/2707**
+
+==================
+
 # closure-compiler-js
 
 <img src="https://travis-ci.org/google/closure-compiler-js.svg?branch=master" />
